@@ -66657,7 +66657,7 @@ case 1:return A.N(p.at(-1),r)}})
 return A.P($async$ue,r)}}
 A.a_l.prototype={}
 A.Fe.prototype={
-J(a){return new A.uO(B.IY,"Flutter Dev Portfolio",A.afO(null,B.zF,"Roboto",B.bF,!0),!1,null)}}
+J(a){return new A.uO(B.IY,"Manas Vegad",A.afO(null,B.zF,"Roboto",B.bF,!0),!1,null)}}
 A.mX.prototype={
 ghz(){return this.b}}
 A.ia.prototype={
